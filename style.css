@@ -233,8 +233,8 @@ body {
 #services {
   color: aliceblue;
   font-size: 20px;
-  line-height: 1, 4;
-  margin-bottom: 4;
+  line-height: 1.4;
+  margin-bottom: 4rem;
 }
 
 .sub-title {
@@ -337,30 +337,30 @@ section {
   font-size: 23px;
 }
 
-.Techanical-bars .bar {
+.Technical-bars .bar {
   margin-top: 40px 0;
 }
 
-.Techanical-bars .bar:first-child {
+.Technical-bars .bar:first-child {
   margin-top: 0;
 }
 
-.Techanical-bars .bar:last-child {
+.Technical-bars .bar:last-child {
   margin-bottom: 0px;
 }
 
-.Techanical-bars .bar .info {
+.Technical-bars .bar .info {
   margin-bottom: 5px;
 }
 
-.Techanical-bars .bar .info span {
+.Technical-bars .bar .info span {
   font-size: 17px;
   font-weight: 500;
   animation: showText 0.5s 1s linear forwards;
   opacity: 0;
 }
 
-.Techanical-bars .bar .progress-line {
+.Technical-bars .bar .progress-line {
   position: relative;
   border-radius: 10px;
   width: 100%;
@@ -377,7 +377,7 @@ section {
   }
 }
 
-.Techanical-bars .bar .progress-line span {
+.Technical-bars .bar .progress-line span {
   height: 100%;
   background-color: #0ef;
   position: absolute;
